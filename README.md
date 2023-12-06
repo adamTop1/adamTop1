@@ -3,11 +3,11 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-frontend developer
+I am frontend developer
 
 * 🌍  I'm based in Poland
-* ✉️  You can contact me at [adamwasylak1@gmail.com](mailto:adamwasylak1@gmail.com)
 * 🧠  I'm learning React and Next.js
+* ✉️  You can contact me at [adamwasylak1@gmail.com](mailto:adamwasylak1@gmail.com)
 
 ### Skills
 
