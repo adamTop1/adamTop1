@@ -6,7 +6,7 @@
 I am frontend developer
 
 * 🌍  I'm based in Poland
-* 🧠  I'm learning React 
+* 🧠  I'm learning React and Node.js
 * ✉️  You can contact me at [adamwasylak1@gmail.com](mailto:adamwasylak1@gmail.com)
 
 ### Skills
