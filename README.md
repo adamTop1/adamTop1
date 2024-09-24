@@ -3,10 +3,10 @@
 <br />
 <img align="top" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-I am aspiring fullstack developer
+I am aspiring frontend developer
 
 * 🌍  I'm based in Poland
-* 🧠  I'm learning React and Node.js
+* 🧠  I'm learning Next.js
 * ✉️  You can contact me at [adamwasylak1@gmail.com](mailto:adamwasylak1@gmail.com)
 
 ### Skills
